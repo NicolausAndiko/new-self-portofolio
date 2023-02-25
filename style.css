@@ -1,3 +1,19 @@
-body {
-    height: 2500px;
+#profile {
+    border-radius: 50%;
+}
+
+.jumbotron {
+    background-color: #ececec;
+}
+
+section {
+    padding-top: 6rem;
+}
+
+#gallery {
+    background-color: #ececec;
+}
+
+footer {
+    background-color: #ececec;
 }
